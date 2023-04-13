@@ -5,7 +5,7 @@ createApp({
 
   data(){
     return{
-      
+      messaggio: "ciao vue"
     }
   }
 
